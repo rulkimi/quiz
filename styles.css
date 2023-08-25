@@ -121,5 +121,6 @@ button.incorrect, button.incorrect:hover {
 @media (max-width: 767px) {
   .quiz-container {
     max-width: 90%;
+    font-size: 15px;
   }
 }
